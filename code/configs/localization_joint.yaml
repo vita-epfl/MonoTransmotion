@@ -1,0 +1,25 @@
+SEED: 0
+TRAIN:
+    batch_size: 32
+    epochs: 100
+    num_workers: 0
+    input_track_size: 4
+    output_track_size: 6
+    lr: 5e-8
+    lr_decay: 1
+    lr_drop: true
+    aux_weight: 0.2
+    val_frequency: 5
+    optimizer: "adam"
+    max_grad_norm: 1.0
+MODEL:
+    seq_len: 10
+    token_num: 1
+    num_layers_local: 3 
+    num_heads: 2 
+    dim_hidden: 256 
+    dim_feedforward: 2048 
+    type: "transmotion"
+    eval_single: false
+    checkpoint: "" 
+    output_scale: 1 

@@ -1,0 +1,4 @@
+pyquaternion
+matplotlib
+numpy
+PyYAML

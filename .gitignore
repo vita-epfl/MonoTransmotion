@@ -1,0 +1,7 @@
+checkpoints/
+code/data/nusc_ped_data/
+.DS_Store
+# Python cache
+__pycache__/
+*.zip
+code/output/
