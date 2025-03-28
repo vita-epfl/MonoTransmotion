@@ -8,7 +8,7 @@ with Monocular Vision </h1>
 
 [[Paper](https://arxiv.org/abs/2503.03535)]
 </h4>
-<image src="docs/monotransmotion.png" width="350">
+<image src="docs/monotransmotion.png" width="ㄓㄢ0">
 </div>
 
 # Getting Started
